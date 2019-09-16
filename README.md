@@ -8,3 +8,5 @@ Starter template built utilizing **CSS Flexbox** and **CSS Grid**.
 - Cover
 - Grid
 - Footer
+
+Live preview of repo on [GitHub Pages](https://mikestonedesign.github.io/Starter-flexbox-css-grid/).
